@@ -1,2 +1,5 @@
-# cs101-practice-round2
-My first repository for CS101
+# My CS Profile
+
+## About Me
+- Name: Phunares
+- Major: Computer Science
